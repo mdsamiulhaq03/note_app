@@ -1,16 +1,20 @@
-# note_app
+# 📝 Simple Note App
 
-A new Flutter project.
+A lightweight and modern **note-taking mobile app** built with **Flutter**.  
+This app allows users to quickly create, edit, search, and manage notes with an easy-to-use interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- ➕ **Add, edit, and delete notes** easily  
+- 📌 **Pin favorite notes** to keep them at the top  
+- 🔍 **Search notes** by title or content  
+- 🎨 **Color-coded categories or labels** for better organization  
+- 🕑 **Timestamps** for created and updated notes  
+- 🌗 **Dark/Light mode toggle** for better viewing  
+- 📱 **Responsive design** for phones and tablets  
+- 💾 **Offline-first** using local state (upgradeable to Hive or Sqflite)  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
